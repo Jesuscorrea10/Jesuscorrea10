@@ -5,6 +5,8 @@
 
 - :trophy: I’m looking to collaborate **innovative collaborations on outsourcing ventures**
 
+- 💬 Able to relocate for a full time position
+
 - 🤝 Looking to network **with fellow analysts**
 
 - 📫 How to reach me **yisuscorrea@gmail.com**
