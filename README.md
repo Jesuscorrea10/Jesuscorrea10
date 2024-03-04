@@ -13,6 +13,8 @@
 
 - 📄 Know about my experiences <a href='https://docs.google.com/document/d/1arv8N_7KtHu8HI8uB_EYSFUAqldc9uXZvfIf-s49KVQ/edit?usp=sharing' target=_blank><u>here</u>.</a>
 
+ - 👨‍💻 All  my projects are available <a href='https://github.com/Jesuscorrea10/Data_projects_TripleTen/tree/main' target=_blank><u>here</u>.</a>
+ 
 - ⚡ Fun fact: **Used to be a professional soccer player and now fell in love with learning and became a professional nerd. Technology,Finance,Self-Development,Books,Sports and Fitness are the things that I'm into.**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
