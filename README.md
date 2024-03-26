@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jesus Correa</h1>
-<h3 align="center">I am an Aspiring data professional with a computer science background with more than 4 technical projects through a businees intelligence certification. Fortified Expertise in Data Analytics, Data Visualization, Spreadsheets, SQL, Tableau, and Microsoft Power BI. Coming from a technical sales industry, I'm driven to uncover business insights that enhance companies and boost their revenue.</h3>
+<h3 align="center">I am an Aspiring data professional with a computer science background with more than 4 technical projects through a businees intelligence certification. Fortified Expertise in Data Analytics, Data Visualization, Spreadsheets, SQL, Tableau, and Microsoft Power BI. Coming from  technical sales industry, I'm driven to uncover business insights that enhance companies and boost their revenue.</h3>
 
 - 🌱 I’m currently learning **Power BI**
 
