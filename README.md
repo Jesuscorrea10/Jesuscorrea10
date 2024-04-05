@@ -15,7 +15,7 @@
 
  - 👨‍💻 All  my projects are available <a href='https://github.com/Jesuscorrea10/Data_projects_TripleTen/tree/main' target=_blank><u>here</u>.</a>
  
-- ⚡ Fun fact: **Used to be a professional soccer player and now fell in love with learning and became a professional nerd. Technology,Finance,Self-Development,Books,Sports and Fitness are the things that I'm into.**
+- ⚡ Fun fact: **I used to be a professional soccer player, but my passion shifted towards learning, and now I proudly wear the badge of a professional nerd. My interests span across technology, finance, self-development, books, sports, and fitness. 📚💻🏋️‍♀️📈⚽.**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
